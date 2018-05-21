@@ -1,4 +1,4 @@
 function theBeatlesPlay(arrayMusicians, arrayInstruments) {
-  var Lennon = []
+  var lennonPlays = []
   for ()
 }
